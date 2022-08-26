@@ -1,4 +1,4 @@
-![Header image](https://github.com/dickyafriza/dickyafriza/blob/41ac1ce996398f63a131c3c31ec82e0ba5342dbd/assets/Banner-mda.png)
+![Header image]()
 
 # Hi there 👋, i'm Afriza 
 
