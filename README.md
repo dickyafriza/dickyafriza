@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![dickyafriza's GitHub stats](https://github-readme-stats.vercel.app/api?username=dickyafriza&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dickyafriza&layout=compact)
 <!--
 **dickyafriza/dickyafriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
