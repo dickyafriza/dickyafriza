@@ -1,5 +1,3 @@
-![Header image](https://github.com/dickyafriza/dickyafriza/blob/d77e082246a575cb2434e07428bc6dce8e4d454f/assets/Banner-mda.png)
-
 # Hi there 👋, i'm Afriza 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikiafrz/)
