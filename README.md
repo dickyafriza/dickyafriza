@@ -41,6 +41,7 @@ Currently exploring **Laravel**, **Tailwind**, **Unity**, and **Machine Learning
 ![GitHub Stats](https://github-readme-stats-git-master-rstaa-r.vercel.app/api?username=dickyafriza&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-master-rstaa-r.vercel.app/api/top-langs/?username=dickyafriza&layout=compact)
 
+
 ---
 
 ## ✨ Fun Fact
